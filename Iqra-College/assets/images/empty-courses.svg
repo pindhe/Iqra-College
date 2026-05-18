@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 160" fill="none">
+  <rect x="40" y="50" width="80" height="60" rx="8" fill="#e2e8f0" stroke="#cbd5e1" stroke-width="2"/>
+  <path d="M55 70 L85 70 M55 85 L75 85 M55 100 L65 100" stroke="#94a3b8" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="150" cy="50" r="25" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="2"/>
+  <path d="M140 50 L147 57 L165 40" stroke="#3b82f6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="100" y="145" text-anchor="middle" font-family="system-ui,sans-serif" font-size="14" fill="#64748b">No courses yet</text>
+</svg>

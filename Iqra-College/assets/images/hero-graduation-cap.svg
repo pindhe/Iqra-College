@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 120" fill="none">
+  <!-- Blue graduation cap, right-facing -->
+  <path d="M80 35 L10 75 L10 85 L150 85 L150 75 L80 35Z" fill="#3b82f6" stroke="#2563eb" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M80 35 L80 15 L90 10 L100 15 L100 35" fill="#60a5fa" stroke="#2563eb" stroke-width="1.5" stroke-linejoin="round"/>
+  <circle cx="90" cy="10" r="5" fill="#fbbf24"/>
+  <path d="M90 6 L90 2 M86 9 L83 12 M94 9 L97 12" stroke="#f59e0b" stroke-width="1.2" stroke-linecap="round"/>
+</svg>

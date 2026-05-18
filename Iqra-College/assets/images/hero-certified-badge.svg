@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Orange star / badge -->
+  <path d="M32 12 L36 24 L49 24 L39 32 L43 44 L32 37 L21 44 L25 32 L15 24 L28 24 Z" fill="#f97316"/>
+  <path d="M32 12 L36 24 L49 24 L39 32 L43 44 L32 37 L21 44 L25 32 L15 24 L28 24 Z" fill="none" stroke="#ea580c" stroke-width="1.5" stroke-linejoin="round" opacity="0.6"/>
+</svg>

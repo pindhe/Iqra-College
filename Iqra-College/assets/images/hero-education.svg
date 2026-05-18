@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" fill="none">
+  <!-- Transparent background – no fill -->
+  <!-- Central graduation cap: medium blue #4A90E2, flat square top, rounded base, tassel right, with shadow -->
+  <g filter="url(#capShadow)">
+    <path d="M100 55 L30 95 L30 105 L170 105 L170 95 L100 55Z" fill="#4A90E2" stroke="#3a7bc8" stroke-width="1.5" stroke-linejoin="round"/>
+    <path d="M100 55 L100 32 L115 25 L130 32 L130 55" fill="#5ba3f5" stroke="#3a7bc8" stroke-width="1.5" stroke-linejoin="round"/>
+    <circle cx="115" cy="25" r="6" fill="#fbbf24"/>
+    <path d="M115 19 L115 12 M111 24 L106 28 M119 24 L124 28" stroke="#f59e0b" stroke-width="1.2" stroke-linecap="round"/>
+  </g>
+  <!-- Top-right: Certified card – white, shadow, orange starburst, "Certified" below -->
+  <g transform="translate(240, 10)">
+    <rect x="0" y="0" width="125" height="95" rx="18" fill="white" filter="url(#cardShadow)"/>
+    <path d="M62 30 L66 42 L79 43 L69 51 L72 64 L62 56 L52 64 L55 51 L45 43 L58 42 Z" fill="#f97316"/>
+    <text x="62" y="82" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" font-weight="700" fill="#334155">Certified</text>
+  </g>
+  <!-- Bottom-left: Video Lessons card – play LEFT, text RIGHT (horizontal) -->
+  <g transform="translate(25, 260)">
+    <rect x="0" y="0" width="180" height="80" rx="18" fill="white" filter="url(#cardShadow)"/>
+    <circle cx="52" cy="40" r="20" fill="none" stroke="#4A90E2" stroke-width="3"/>
+    <path d="M44 32 L44 48 L60 40 Z" fill="#4A90E2"/>
+    <text x="90" y="50" text-anchor="middle" font-family="system-ui, sans-serif" font-size="15" font-weight="700" fill="#334155">Video Lessons</text>
+  </g>
+  <defs>
+    <filter id="capShadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="6" stdDeviation="8" flood-color="#000" flood-opacity="0.12"/>
+    </filter>
+    <filter id="cardShadow" x="-15%" y="-15%" width="130%" height="130%">
+      <feDropShadow dx="0" dy="4" stdDeviation="10" flood-color="#000" flood-opacity="0.1"/>
+    </filter>
+  </defs>
+</svg>
