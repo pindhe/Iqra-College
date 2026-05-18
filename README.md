@@ -13,5 +13,4 @@ Iqra College LMS
 Frontend: HTML, CSS, Tailwind CSS, JavaScript
 Backend: PHP
 Database: MySQL / phpMyAdmin
-⚙️ Installation
-git clone https://github.com/yourusername/iqra-college-lms.git
+
